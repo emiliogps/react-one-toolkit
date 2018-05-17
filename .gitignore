@@ -1,0 +1,14 @@
+node_modules
+npm-debug.log
+build
+dist
+lib
+.nyc_output
+target/
+.idea/
+test/e2e/geckodriver.exe
+test/e2e/selenium-server-standalone-3.0.1.jar
+testreport/
+coverage/
+*.iml
+.vscode/

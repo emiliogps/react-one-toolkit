@@ -1,0 +1,15 @@
+{
+    "extends": "airbnb",
+    "env": {
+      "mocha": true
+    },
+    "parserOptions": {
+      "ecmaFeatures": {
+        "experimentalObjectRestSpread": true
+      }
+    },
+    "rules": {
+      "max-len": ["error", 250],
+      "no-param-reassign": ["error", { "props": false }]
+    }
+  }
